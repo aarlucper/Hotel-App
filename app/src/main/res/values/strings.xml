@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">App Hotel</string>
+    <string name="mtb_item_search">Buscar</string>
+    <string name="mtb_item_logout">Cerrar Sesión</string>
+    <string name="mtb_item_more">More…</string>
+    <string name="textl_perfil">Mi Perfil</string>
+    <string name="textl_reservar">Actividades</string>
+    <string name="textl_actividades">Mis Reservas</string>
+    <string name="textl_local">Localización</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_share">Share</string>
+    <string name="prf_nombre">Nombre</string>
+    <string name="prf_apellidos">Apellidos</string>
+    <string name="prf_fecha_ent">Fecha de entrada</string>
+    <string name="prf_fecha_sal">Fecha de salida</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_passw">Contraseña</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="preference_file_key">Usuarios</string>
+    <string name="btn_sel_foto">Seleccionar foto</string>
+    <string name="btn_sel_img">Seleccionar imagen</string>
+    <string name="btn_subir_img">Subir imagen al bucket</string>
+    <string name="btn_subir_act">Subir actividad</string>
+    <string name="scrollview">ScrollView</string>
+    <string name="hint_imagen">Nombre de la imagen</string>
+    <string name="hint_actividad">Nombre de la actividad</string>
+    <string name="admmin_img">Imagen admin</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="lorem_impsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
